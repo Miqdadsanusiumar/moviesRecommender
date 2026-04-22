@@ -302,8 +302,8 @@ def render_card(rank, title, details):
 # Hero
 st.markdown(
     '<div class="hero">'
-    '<p class="hero-logo">🎬 CineMatch</p>'
-    '<p class="hero-tagline">YOUR PERSONAL MOVIE UNIVERSE — POWERED BY AI</p>'
+    '<p class="hero-logo">🎬 MOVIESTORE</p>'
+    '<p class="hero-tagline">KNOW YOUR FAV MOVIES</p>'
     '</div>',
     unsafe_allow_html=True
 )
